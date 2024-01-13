@@ -32,6 +32,7 @@ In this project, we aim to further enhance the classification performance of CNN
 
 ## System Description and Functions
 ![](/pictures/banner.png)
+![](/pictures/charts.png)
 Early detection of breast cancer seemingly increases a patient's chances of survival and previous studies have shown the successful application of Convolutional Neural Network (CNN) to classify Invasive Ductal Carcinoma (IDC) type cancer from Breast Histopathology images.<br/>
 In this project, we aim to further enhance the classification performance of CNNs using transfer learning model of  VGG16. We also employ techniques like Regularization, Early Stopping, Data Augmentation, Cross Validation and Hyperparameter Optimization during various phases of the project.
 
